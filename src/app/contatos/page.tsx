@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
     title: 'Contatos',
@@ -9,6 +10,7 @@ export default function Contatos() {
     return (
         <main>
             <div className='mt-12 md:mt-24 space-y-8 md:space-y-16 px-6 md:px-32'>
+                <Link href="/" className='flex md:hidden'>&larr; voltar</Link>
                 <h1 className='text-5xl md:text-7xl font-bold text-center'>Contatos</h1>
                 <ul className='table mx-auto space-y-6 md:space-y-8'>
                     <li>

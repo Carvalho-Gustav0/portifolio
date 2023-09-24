@@ -2,6 +2,8 @@
 
 Este é o repositório do código-fonte do meu portfólio. Este projeto é uma representação do meu trabalho e das habilidades que adquiri ao longo do tempo.
 
+### Você pode visualizar o portfólio em: https://portifolio-fawn-one.vercel.app
+
 ## Como Rodar
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina. Em seguida, siga estas etapas:
@@ -26,7 +28,7 @@ React
 HTML5  
 Tailwind CSS  
 
-Sobre  
+## Sobre  
 Este projeto foi criado com o objetivo de mostrar meu trabalho e compartilhar informações sobre minha experiência e habilidades como desenvolvedor. Sinta-se à vontade para explorar os diferentes projetos e páginas neste portfólio.
 
 Se você tiver alguma pergunta ou desejar entrar em contato, você pode me contatar das seguintes maneiras:  
